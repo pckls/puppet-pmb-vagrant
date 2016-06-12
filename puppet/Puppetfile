@@ -1,0 +1,1 @@
+mod 'pmb', :git => 'https://github.com/pckls/puppet-pmb.git', :tag => 'v0.0.1'

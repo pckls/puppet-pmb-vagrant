@@ -1,0 +1,9 @@
+---
+centos7:
+    boxname: puppetlabs/centos-7.0-64-puppet
+    cpus: 1
+    memory: 512
+trusty:
+    boxname: puppetlabs/ubuntu-14.04-64-puppet
+    cpus: 1
+    memory: 512
